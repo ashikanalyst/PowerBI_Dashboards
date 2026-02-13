@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYjI1YWQ2OTktZTRmZC00ZTYxLWE3NjMtMTI0YzdjODQ2YmQ2IiwidCI6ImViYmMwOTZjLTkxOWQtNGM2Ny05NmU3LTk0OTIyN2EyZjM0YyIsImMiOjEwfQ%3D%3D&pageName=1b2835254040701b6642" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-View%20Interactive%20Dashboard-87CEEB?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Dashboard">
+    <img src="https://img.shields.io/badge/Power%20BI-View%20Interactive%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Dashboard">
   </a>
 </p>
 
